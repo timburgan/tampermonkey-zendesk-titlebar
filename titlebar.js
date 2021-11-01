@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Zendesk Window Title
-// @namespace   https://github.com/timburgan/userscripts
+// @namespace   https://github.com/timburgan/tampermonkey-zendesk-titlebar
 // @description Improves the browser window title when using zendesk agent by adding info like ticket id.
 // @match       https://*.zendesk.com/agent/*
 // @grant       none
